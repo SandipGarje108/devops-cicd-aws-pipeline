@@ -28,7 +28,7 @@ Application runs on AWS EC2:
 
 http://<EC2_PUBLIC_IP>:5000
 
-##Architecture Diagram
+## Architecture Diagram
 
 +-------------+
 | Developer   |
