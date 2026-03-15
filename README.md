@@ -30,6 +30,7 @@ http://<EC2_PUBLIC_IP>:5000
 
 ## Architecture Diagram
 
+```
 +-------------+
 | Developer   |
 +-------------+
@@ -59,3 +60,4 @@ http://<EC2_PUBLIC_IP>:5000
 +-------------+
 | Flask App   |
 +-------------+
+```
