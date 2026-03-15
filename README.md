@@ -1,3 +1,4 @@
+![CI/CD Pipeline](https://github.com/SandipGarje108/devops-cicd-aws-pipeline/actions/workflows/docker-build.yml/badge.svg)
 # DevOps CI/CD Pipeline with Docker and AWS
 
 This project demonstrates a complete CI/CD pipeline that automatically builds and deploys a containerized application to AWS EC2.
